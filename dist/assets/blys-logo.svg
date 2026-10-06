@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
+  <title id="title">BLYS</title>
+  <desc id="desc">BLYS Smart Cleaning. Real Results.</desc>
+  <rect width="1600" height="800" fill="#fbfdf8"/>
+  <g transform="translate(120 210)">
+    <text x="0" y="210" fill="#062f24" font-family="Arial Black, Inter, sans-serif" font-size="290" font-weight="900" letter-spacing="-14">BLYS</text>
+    <path d="M-28 282 C130 118 288 122 445 250 C248 202 96 240 -28 355 Z" fill="#89dc34"/>
+    <path d="M-5 304 C139 177 284 172 412 248 C230 226 97 267 -5 338 Z" fill="#51b92e" opacity=".72"/>
+    <text x="0" y="390" fill="#062f24" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="22">SMART CLEANING.</text>
+    <text x="520" y="390" fill="#58b532" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="900" letter-spacing="18">REAL RESULTS.</text>
+  </g>
+  <g transform="translate(1190 220)">
+    <rect width="250" height="250" rx="42" fill="#062f24"/>
+    <text x="54" y="174" fill="#fbfdf8" font-family="Arial Black, Inter, sans-serif" font-size="180" font-weight="900">B</text>
+    <path d="M38 176 C95 98 170 101 230 146 C142 137 83 159 38 218 Z" fill="#89dc34"/>
+  </g>
+  <g fill="#89dc34">
+    <path d="M978 196 L1013 260 L1076 295 L1013 330 L978 394 L943 330 L879 295 L943 260 Z"/>
+    <path d="M1457 248 L1480 292 L1524 315 L1480 338 L1457 382 L1434 338 L1390 315 L1434 292 Z"/>
+    <path d="M1052 297 C1095 342 1094 395 1049 426 C1007 383 1008 331 1052 297 Z"/>
+    <path d="M1518 351 C1548 382 1548 419 1516 441 C1487 411 1488 374 1518 351 Z"/>
+  </g>
+</svg>
